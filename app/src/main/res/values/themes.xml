@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Story" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColorGreen</item>
+        <item name="colorPrimaryVariant">@color/secondaryColorGreen</item>
+        <item name="colorOnPrimary">@color/detailText</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primaryColorBlue</item>
+        <item name="colorSecondaryVariant">@color/secondaryColorBlue</item>
+        <item name="colorOnSecondary">@color/detailTextBlack</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="backgroundColor">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story</string>
+    <string name="don_t_have_account">Belum punya akun?</string>
+    <string name="login">Masuk</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="name">Nama</string>
+    <string name="already_have_account">Sudah memiliki akun?</string>
+    <string name="register_success">Register Sukses, Silahkan Login..</string>
+    <string name="error_message_field_cannot_be_empty">%s tidak boleh kosong</string>
+    <string name="error_message_field_cannot_be_more_than_limit">%s tidak boleh lebih dari %d karakter</string>
+    <string name="error_message_field_cannot_be_less_than_limit">%s tidak boleh kurang dari %d karakter</string>
+    <string name="error_message_field_email_is_in_invalid_format">Email dalam format yang tidak benar</string>
+    <string name="label_field_default">Teks</string>
+    <string name="welcome_back">Selamat Datang</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="add_story_success">Sukses tambah cerita!</string>
+    <string name="cant_get_permission">Tidak mendapatkan izin.</string>
+    <string name="story_image">Story image</string>
+    <string name="please_fill_all_fields">Harap isi semua kolom</string>
+    <string name="password_must_be_at_least_8_characters">Kata sandi harus minimal 8 karakter</string>
+    <string name="please_enter_a_valid_email_address">Silakan isi alamat email yang valid</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Coba lagi</string>
+    <string name="error_message">Ada yang salah dengan server kami.\nSilakan coba lagi nanti.</string>
+    <string name="image_error">image_error</string>
+    <string name="ok">Oke</string>
+    <string name="error_validation">Mohon isi semua data dengan benar!</string>
+    <string name="title_stories">Stories</string>
+    <string name="title_maps">Maps</string>
+</resources>

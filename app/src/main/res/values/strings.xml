@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story</string>
+    <string name="don_t_have_account">Don\'t have an account yet?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="register_success">Register Success, Please Login..</string>
+    <string name="error_message_field_cannot_be_empty">%s cannot be empty</string>
+    <string name="error_message_field_cannot_be_more_than_limit">%s cannot be more than %d characters</string>
+    <string name="error_message_field_cannot_be_less_than_limit">%s cannot be less than %d characters</string>
+    <string name="error_message_field_email_is_in_invalid_format">Email is in invalid format</string>
+    <string name="label_field_default">Text</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_story_success">Success add story!</string>
+    <string name="cant_get_permission">Did not get permissions.</string>
+    <string name="story_image">Story image</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="password_must_be_at_least_8_characters">Password must be at least 8 characters</string>
+    <string name="please_enter_a_valid_email_address">Please enter a valid email address</string>
+    <string name="retry">Retry</string>
+    <string name="location_not_found">Location is not found. Try Again</string>
+    <string name="error_message">Something wrong with our server.\nPlease try again later.</string>
+    <string name="image_error">image_error</string>
+    <string name="ok">OK</string>
+    <string name="error_validation">Please make sure all the input field is correct!</string>
+    <string name="title_stories">Stories</string>
+    <string name="title_maps">Maps</string>
+</resources>
